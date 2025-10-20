@@ -70,12 +70,13 @@ Shows the task list filtered after using the search bar.
 
 ```
 <img width="295" height="261" alt="Screenshot 2025-10-20 at 9 27 40 PM" src="https://github.com/user-attachments/assets/40135cbd-fe76-42e0-9a60-9bff00144640" />
+
 ```
 
 4. Execute Task Output
 Shows the modal window displaying the output after clicking the execute button for a task.
 
-
+```
 
 <img width="1462" height="795" alt="Screenshot 2025-10-20 at 9 28 16 PM" src="https://github.com/user-attachments/assets/4d37d07c-5951-4d86-9bd0-b2872109d23f" />
 
