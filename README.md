@@ -51,19 +51,28 @@ Screenshots
 1. Main UI (List, Search, Create Form)
 Shows the main layout with the task list, search bar, and create form visible.
 
-<-- ACTION: Insert a screenshot of the main UI here. -->
+```
+<img width="1464" height="802" alt="Screenshot 2025-10-20 at 9 25 40 PM" src="https://github.com/user-attachments/assets/249720f6-38d8-41d1-8bf5-cdaa230ed9ab" />
 
+```
 2. Create Task
 Shows the "Create Task" form filled out.
 
-<-- ACTION: Insert a screenshot of the filled create form here. -->
+```
+<img width="253" height="153" alt="Screenshot 2025-10-20 at 9 27 07 PM" src="https://github.com/user-attachments/assets/9aaf5e5a-d914-4da3-b6e3-0efc5e460a65" />
+
+```
+
+
 
 3. Search Results
 Shows the task list filtered after using the search bar.
 
-<-- ACTION: Insert a screenshot of the search results here. -->
-
+```
+<img width="295" height="261" alt="Screenshot 2025-10-20 at 9 27 40 PM" src="https://github.com/user-attachments/assets/40135cbd-fe76-42e0-9a60-9bff00144640" />
+```
 4. Execute Task Output
 Shows the modal window displaying the output after clicking the execute button for a task.
 
-<-- ACTION: Insert a screenshot of the execution output modal here. -->
+```
+<img width="1462" height="795" alt="Screenshot 2025-10-20 at 9 28 16 PM" src="https://github.com/user-attachments/assets/4d37d07c-5951-4d86-9bd0-b2872109d23f" />
